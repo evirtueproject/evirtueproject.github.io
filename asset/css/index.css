@@ -12,7 +12,7 @@
     text-align: center;
   }
   .muyu {
-    position: absolute;
+    position: fixed;
     left: 90%;
     top: 84%;
     width: 211px;
@@ -23,7 +23,7 @@
     animation: suofang 0.3s;
   }
   .gongde {
-    position: absolute;
+    position: fixed;
     left: 20%;
     top: 30%;
     transform: translateX(-50%);
