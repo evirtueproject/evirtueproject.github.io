@@ -12,6 +12,9 @@
     text-align: center;
   }
   .muyu {
+    position: absolute;
+    left: 90%;
+    top: 84%;
     width: 211px;
     height: 211px;
     margin: 0 auto;
@@ -21,12 +24,12 @@
   }
   .gongde {
     position: absolute;
-    left: 70%;
-    top: 24%;
+    left: 20%;
+    top: 30%;
     transform: translateX(-50%);
     width: 100px;
     height: 30px;
-    font-size: 21px;
+    font-size: 36px;
   }
   .gongdejiayi {
     animation: textMove 0.6s;
