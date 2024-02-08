@@ -133,8 +133,8 @@
   }
   .muyu {
     position: fixed;
-    left: 90%;
-    top: 64%;
+    left: 75%;
+    top: 55%;
     width: 211px;
     height: 211px;
     margin: 0 auto;
@@ -144,8 +144,8 @@
   }
   .gongde {
     position: fixed;
-    left: 30%;
-    top: 37%;
+    left: 20%;
+    top: 40%;
     transform: translateX(-50%);
     width: 100px;
     height: 30px;
