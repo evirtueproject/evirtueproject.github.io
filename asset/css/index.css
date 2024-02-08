@@ -125,8 +125,8 @@
   }
   .qiaoji {
     position: fixed;
-    left: 32%;
-    top: 35%;
+    left: 25%;
+    top: 30%;
     width: 200%;
     height: 60vh;
     font-size: 38px;
@@ -135,8 +135,8 @@
     position: fixed;
     left: 75%;
     top: 42%;
-    width: 211px;
-    height: 211px;
+    width: 100%;
+    height: 70vh;
     margin: 0 auto;
   }
   .sf {
