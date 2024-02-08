@@ -12,7 +12,7 @@
     text-align: center;
   }
   .muyu {
-    position: fixed;
+    position: absolute;
     left: 10%;
     top: 64%;
     width: 150px;
