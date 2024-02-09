@@ -7,9 +7,10 @@
   }
   .qiaoji {
     margin-top: 15%;
-    width: 180%;
+    width: 150%;
     height: 50vh;
     text-align: center;
+    font-size: 40px;
     color: #ffca44;
     text-decoration: none;
   }
