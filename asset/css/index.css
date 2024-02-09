@@ -1,7 +1,7 @@
 /* 平板以及手机的尺寸大小 */
 @media screen and (max-width: 530px) {
   body {
-    background-image: url("background.jpg");
+    background-image: url("background - phone.jpg");
     background-size: cover;
     background-attachment: fixed;
   }
