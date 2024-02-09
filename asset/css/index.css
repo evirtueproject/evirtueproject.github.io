@@ -6,16 +6,16 @@
     background-attachment: fixed;
   }
   .qiaoji {
-    margin-top: 10%;
-    width: 100%;
-    height: 30vh;
+    margin-top: 15%;
+    width: 180%;
+    height: 50vh;
     text-align: center;
     color: #ffca44;
     text-decoration: none;
   }
   .muyu {
-    width: 934px;
-    height: 935px;
+    width: 500px;
+    height: 500px;
     margin: 10% auto;
   }
   .sf {
@@ -23,12 +23,12 @@
   }
   .gongde {
     position: absolute;
-    left: 70%;
+    left: 75%;
     top: 24%;
     transform: translateX(-50%);
-    width: 100px;
-    height: 30px;
-    font-size: 21px;
+    width: 120px;
+    height: 40px;
+    font-size: 30px;
     color: #ffca44
   }
   .gongdejiayi {
@@ -129,9 +129,9 @@
     position: fixed;
     left: 10%;
     top: 18%;
-    width: 180%;
-    height: 50vh;
-    font-size: 36px;
+    width: 2200%;
+    height: 60vh;
+    font-size: 40px;
     color: #ffca44;
     text-decoration: none;
   }
@@ -139,7 +139,7 @@
     position: fixed;
     left: 51%;
     top: 13%;
-    width: 70%;
+    width: 80%;
     margin: 10% auto;
   }
    
