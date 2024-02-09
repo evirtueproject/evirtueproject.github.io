@@ -11,6 +11,7 @@
     height: 30vh;
     text-align: center;
     color: #ffca44
+    text-decoration: none;
   }
   .muyu {
     width: 934px;
@@ -30,10 +31,6 @@
     font-size: 21px;
     color: #ffca44
   }
-  .a {
-  color: #ffca44;
-  text-decoration: none;
-}
   .gongdejiayi {
     animation: textMove 0.6s;
   }
@@ -136,6 +133,7 @@
     height: 50vh;
     font-size: 36px;
     color: #ffca44
+    text-decoration: none;
   }
   .muyu {
     position: fixed;
@@ -144,10 +142,7 @@
     width: 60%;
     margin: 10% auto;
   }
-   .a {
-  color: #ffca44;
-  text-decoration: none;
-}
+   
   .sf {
     animation: suofang 0.3s;
   }
