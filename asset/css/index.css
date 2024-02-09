@@ -6,10 +6,10 @@
     background-attachment: fixed;
   }
   .qiaoji {
-    margin-top: 15%;
-    width: 110%;
+    margin-top: 10%;
+    width: 100%;
     text-align: center;
-    font-size: 45px;
+    font-size: 40px;
     color: #ffca44;
     text-decoration: none;
   }
@@ -27,7 +27,7 @@
   .gongde {
     position: absolute;
     left: 75%;
-    top: 70%;
+    top: 100px;
     transform: translateX(-50%);
     width: 120px;
     height: 40px;
