@@ -10,7 +10,7 @@
     width: 100%;
     height: 30vh;
     text-align: center;
-    color: #ffca44
+    color: #ffca44;
     text-decoration: none;
   }
   .muyu {
@@ -132,14 +132,14 @@
     width: 180%;
     height: 50vh;
     font-size: 36px;
-    color: #ffca44
+    color: #ffca44;
     text-decoration: none;
   }
   .muyu {
     position: fixed;
     left: 51%;
     top: 13%;
-    width: 60%;
+    width: 70%;
     margin: 10% auto;
   }
    
