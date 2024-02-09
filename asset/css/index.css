@@ -127,7 +127,7 @@
     background-attachment: fixed;
   }
   .qiaoji {
-    position: fixed;
+    position: absolute;
     left: 10%;
     top: 18%;
     width: 2200%;
@@ -137,7 +137,7 @@
     text-decoration: none;
   }
   .muyu {
-    position: fixed;
+    position: absolute;
     left: 51%;
     top: 13%;
     width: 80%;
