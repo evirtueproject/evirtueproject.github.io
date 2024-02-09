@@ -7,14 +7,17 @@
   }
   .qiaoji {
     margin-top: 15%;
-    width: 120%;
-    height: 20vh;
+    width: 110%;
+    height: 60vh;
     text-align: center;
     font-size: 45px;
     color: #ffca44;
     text-decoration: none;
   }
   .muyu {
+    position: absolute;
+    left: 10%;
+    top: 70%
     width: 500px;
     height: 500px;
     margin: 10% auto;
