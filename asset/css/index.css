@@ -16,10 +16,9 @@
   .muyu {
     position: absolute;
     left: 5%;
-    top: 40%
+    top: 35%
     width: 410px;
     height: 410px;
-    margin: 10% auto;
   }
   .sf {
     animation: suofang 0.3s;
