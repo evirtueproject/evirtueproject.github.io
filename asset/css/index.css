@@ -3,7 +3,7 @@
   body {
     background-image: url("background.jpg");
     background-size: cover;
-    background-attachment: absolute;
+    background-attachment: fixed;
   }
   .qiaoji {
     margin-top: 15%;
@@ -18,8 +18,8 @@
     position: absolute;
     left: 10%;
     top: 70%
-    width: 500px;
-    height: 500px;
+    width: 410px;
+    height: 410px;
     margin: 10% auto;
   }
   .sf {
